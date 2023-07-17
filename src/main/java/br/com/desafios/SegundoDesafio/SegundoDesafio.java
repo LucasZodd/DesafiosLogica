@@ -1,4 +1,4 @@
-package SegundoDesafio;
+package main.java.br.com.desafios.SegundoDesafio;
 
 import java.text.NumberFormat;
 import java.util.*;

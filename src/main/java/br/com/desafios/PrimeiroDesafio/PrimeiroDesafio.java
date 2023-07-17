@@ -1,4 +1,4 @@
-package PrimeiroDesafio;
+package main.java.br.com.desafios.PrimeiroDesafio;
 
 import java.util.*;
 

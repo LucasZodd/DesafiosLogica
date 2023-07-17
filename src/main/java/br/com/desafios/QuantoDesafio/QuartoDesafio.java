@@ -1,4 +1,4 @@
-package QuantoDesafio;
+package main.java.br.com.desafios.QuantoDesafio;
 
 public class QuartoDesafio {
 

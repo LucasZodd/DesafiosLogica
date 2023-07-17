@@ -1,4 +1,4 @@
-package TerceiroDesafio;
+package main.java.br.com.desafios.TerceiroDesafio;
 
 import java.util.*;
 
