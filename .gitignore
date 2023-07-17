@@ -7,8 +7,8 @@ npm-debug.*
 *.p12
 *.key
 *.mobileprovision
+*.out
 *.orig.*
-*.out.*
 web-build/
 
 # macOS
